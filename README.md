@@ -12,3 +12,5 @@ I like this restaurant because of the **food quality**, ambience and for having 
 - KFC
 - Cult fit
 - Zudio
+
+Adding a link to [MyMedia](MyMedia.md)
