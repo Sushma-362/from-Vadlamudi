@@ -15,8 +15,8 @@ I like this restaurant because of the **food quality**, ambience and for having 
 ----
 ## Recommended Books
 In this table i would like to recommend some interesting books by mentioning the name of the book, reason for recommending and author of the book.
-|   Book Name   |   Interesting Facts for recommending   |   Author of the book   |
-| -------         | --------------                         |  ------------          |
+|   **Book Name**  |   **Interesting Facts for recommending**   |   **Author of the book**   |
+| -------        | --------------                         |  ------------          |
 | 1. Thinking in Bets | It's all about making decisions in the face of uncertainity                                    |  Annie Duke            |
 | 2. Into Thin Air    | It specifies how important it is to trust teammates | Jon Krakauer |
 | 3. Stumbling on Happiness | Explains how our brains make us think about the future                             |  Dan Gilbert           |
