@@ -24,8 +24,8 @@ In this table i would like to recommend some interesting books by mentioning the
 | 5. Good vibes, Good life | encourages us to take care of ourselves physically and spiritually                            |  Vex King |
 
 -----
-## Qualities in a person>
+## Qualities in a person
 > “It doesn’t matter who you are or what you look like, so long as somebody loves you.” - *Roald Dahl*
-> “To get the full value of a joy you must have somebody to divide it with.” - *Mark Twain*
+>> “To get the full value of a joy you must have somebody to divide it with.” - *Mark Twain*
 
 Adding a link to [MyMedia](MyMedia.md)
