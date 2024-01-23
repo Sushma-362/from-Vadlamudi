@@ -28,7 +28,12 @@ In this table i would like to recommend some interesting books by mentioning the
 > “It doesn’t matter who you are or what you look like, so long as somebody loves you.” - *Roald Dahl*
 >> “To get the full value of a joy you must have somebody to divide it with.” - *Mark Twain*
 ----
-## Code Fencing
+## Delete
+```
+The Delete command in SQL is used to delete existing records in a table.
 
+DELETE FROM table_name WHERE condition;
 
+[SQL delete code snippet](https://code.pieces.app/collections/sql)
+```
 Adding a link to [MyMedia](MyMedia.md)
